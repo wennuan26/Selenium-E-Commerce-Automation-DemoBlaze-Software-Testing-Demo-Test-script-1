@@ -10,6 +10,8 @@ Alert Handling: Seamlessly manages browser-level JavaScript pop-ups for registra
 
 Task-Based Structure: Organized into 5 distinct modules for easy readability and maintenance.
 
+# Start from Initial setup.java and follow rest of the Tasks 1 to 5 to complete the code if you are not downloading the whole package
+
 📋 Automation Tasks
 Task 1: Navigation – Launches Chrome and navigates to the landing page, verifying the site identity.
 

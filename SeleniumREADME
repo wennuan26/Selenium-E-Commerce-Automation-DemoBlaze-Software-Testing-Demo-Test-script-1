@@ -1,0 +1,23 @@
+# Selenium Automation Assignment 02
+
+## Project Description
+This project automates five key tasks on the DemoBlaze e-commerce site using Selenium WebDriver and Java 21.
+
+## Tasks Automated:
+1. **Task 1:** Open the website and verify the page title.
+2. **Task 2:** Register a new user with a unique timestamp-based username.
+3. **Task 3:** Log in using the newly created credentials.
+4. **Task 4:** Navigate to the 'Laptops' category and select 'MacBook air'.
+5. **Task 5:** Close the browser and terminate the session.
+
+## Prerequisites
+- Java JDK 21
+- Eclipse IDE
+- Selenium Java Client Libraries (v4.17.0)
+- Google Chrome Browser
+
+## How to Execute
+1. Import the project into Eclipse.
+2. Ensure Selenium JARs are added to the **Project Build Path**.
+3. Open `src/assignment02/saucedemo.java`.
+4. Right-click the file and select **Run As > Java Application**.

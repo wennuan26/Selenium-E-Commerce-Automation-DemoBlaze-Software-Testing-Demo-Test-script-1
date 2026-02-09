@@ -34,7 +34,7 @@ Browser: Google Chrome (via Selenium Manager)
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/SeleniumAssignment02.git
+git clone (https://github.com/wennuan26/Selenium-E-Commerce-Automation-DemoBlaze-Software-Testing-Demo-Test-script-1.git)
 Open the project in Eclipse IDE.
 
 Ensure the Selenium JAR files are added to the Build Path.
